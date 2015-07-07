@@ -1,8 +1,8 @@
-## What is this?!
+## What is this?
 
 gulp-demo is a bunch of files used to teach gulp! If you stumbled here by accident, feel
 free to use this project to teach a lesson or, better yet, fork this repo to make your
-own derivative lessons!
+own derivative lessons.
 
 ## Who is this for?
 
