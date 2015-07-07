@@ -1,0 +1,25 @@
+{
+  "name": "gulp-demo",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Lauffenburger <elauffenburger@gmail.com>"
+  ],
+  "description": "Demo of basic Gulp functionality",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "lodash": "~3.9.3",
+    "underscore": "~1.8.3",
+    "requirejs": "~2.1.18"
+  }
+}
