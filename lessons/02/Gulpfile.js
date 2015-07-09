@@ -49,7 +49,7 @@ function getRequireOptions() {
 }
 
 function optimizeTask(done) {
-	gulp.src("src/**/*.js")
+	gulp.src("src/main.js")
 		.pipe(requirejsOptimize(getRequireOptions()))
 		.pipe(rename("main.js"))
 		.pipe(gulp.dest("dist/build"))
